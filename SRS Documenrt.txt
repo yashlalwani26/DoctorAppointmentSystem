@@ -1,0 +1,68 @@
+Software Requirements Specification (SRS) Document
+
+1. Introduction
+1.1 Purpose
+
+The purpose of this document is to provide a detailed description of the requirements for the Doctor Appointment System. It outlines the functional and non-functional requirements, constraints, and interfaces necessary for the successful development and implementation of the system.
+
+1.2 Scope
+
+The Doctor Appointment System aims to streamline the appointment scheduling process for both doctors and patients. It will facilitate efficient appointment booking, cancellation, and management.
+
+2. System Overview
+2.1 System Description
+
+The Doctor Appointment System will be a web-based application that allows users to schedule, modify, and cancel appointments with doctors. It will include user authentication and appointment management.
+
+2.2 System Features
+
+User Registration and Authentication
+Doctor and Patient Profiles
+Appointment Scheduling
+Appointment Modification and Cancellation
+Notification System (email or SMS)
+Calendar Integration for Doctors
+Search and Filter Functionality
+
+3. Functional Requirements
+3.1 User Roles and Permissions
+
+Administrator: Manages user accounts, adds/removes doctors, and monitors system activity.
+Doctor: Manages their schedule, views appointments, and receives notifications.
+Patient: Books, modifies, and cancels appointments, and receives notifications.
+
+3.2 User Stories
+
+As a patient, I want to register an account to book appointments.
+As a doctor, I want to set my availability for appointments.
+As a patient, I want to search for available doctors and book appointments.
+As a doctor, I want to view my upcoming appointments and patient details.
+As a patient, I want to receive notifications for upcoming appointments.
+As an administrator, I want to manage user accounts and doctor profiles.
+
+4. Non-Functional Requirements
+4.1 Reliability
+
+The system should have a 99.9% uptime, and data integrity should be maintained in case of system failures.
+
+4.2 Security
+
+User data should be encrypted during transmission and storage. Access control measures should be in place to ensure only authorized users can access specific functionalities.
+
+5. Constraints
+5.1 Technology Constraints
+
+The system will be developed using ReactJS, SpringBoot and MySQL Database.
+
+5.2 Regulatory Constraints
+
+The system should comply with healthcare data protection regulations and standards.
+
+6. Interfaces
+6.1 User Interface
+
+The system will have an intuitive and user-friendly web interface for both doctors and patients.
+
+7. Conclusion
+
+This document serves as a comprehensive guide for the development of the Doctor Appointment System. It outlines the key features, requirements, and constraints to ensure a successful and effective implementation of the software.

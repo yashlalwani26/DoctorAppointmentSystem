@@ -1,0 +1,21 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.37);
+    color: rgb(0, 0, 0);
+    text-align: center;
+  }
+  body{
+  background-image: url('../WhatsApp\ Image\ 2022-04-18\ at\ 12.16.58\ PM.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.homediv{
+  margin: auto;
+  margin-top: 15%;
+  height: 30vh;
+  
+background-color: rgba(92, 88, 88, 0.568) ;
+}
