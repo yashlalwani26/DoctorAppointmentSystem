@@ -1,0 +1,1 @@
+The "Arogyam: Doctor Appointment System" is a web-based application designed to bridge the gap between patients and doctors, revolutionizing the healthcare industry by streamlining appointment scheduling, enhancing patient-doctor interactions, and promoting efficient healthcare management.
